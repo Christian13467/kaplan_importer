@@ -1,0 +1,24 @@
+{
+	"name" : "christianhille/christianhille-kaplan-importer",
+	"type" : "typo3-cms-extension",
+	"description" : "Import von Kaplan Termindaten nach ext:news",
+	"require" : {
+		"typo3/cms-core" : ">=8.7.0 <9",
+		"georgringer/news" : ">=6.0.0"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"CHRISTIANHILLE\\KaplanImporter\\" : "Classes"
+		}
+	},
+	"autoload-dev" : {
+		"psr-4" : {
+			"CHRISTIANHILLE\\KaplanImporter\\Tests\\" : "Tests"
+		}
+	},
+	"replace" : {
+		"christianhille_kaplan_importer" : "self.version",
+		"typo3-ter/christianhille-kaplan-importer" : "self.version"
+	},
+	"minimum-stability" : "beta"
+}

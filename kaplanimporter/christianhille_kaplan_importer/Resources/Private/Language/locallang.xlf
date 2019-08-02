@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="de" datatype="plaintext" original="messages" date="2014-12-30T07:53:39Z" product-name="christianhille_kaplan_importer">
+		<body>
+			<trans-unit id="christianhille_kaplan_importer.db.name">
+				<source>Kaplan Import Definition</source>
+			</trans-unit>
+			<trans-unit id="amt_feed_importer.rss2_task.description">
+				<source>Import news from RSS2 feed</source>
+			</trans-unit>
+			<trans-unit id="amt_feed_importer.rss2_task.additional_fields.feed">
+				<source>Feed</source>
+			</trans-unit>
+			<trans-unit id="amt_feed_importer.atom_task.name">
+				<source>Atom News Import</source>
+			</trans-unit>
+			<trans-unit id="amt_feed_importer.atom_task.description">
+				<source>Import news from Atom feed</source>
+			</trans-unit>
+			<trans-unit id="amt_feed_importer.atom_task.additional_fields.feed">
+				<source>Feed</source>
+			</trans-unit>
+			<trans-unit id="amt_feed_importer.ext_configuration.edited_fields_list">
+				<source>Fields to check if news was edited</source>
+			</trans-unit>
+			<trans-unit id="amt_feed_importer.errors.rss2.wrong_type">
+				<source>This is not RSS2 feed configuration</source>
+			</trans-unit>
+			<trans-unit id="amt_feed_importer.errors.atom.wrong_type">
+				<source>This is not Atom feed configuration</source>
+			</trans-unit>
+			<trans-unit id="amt_feed_importer.errors.not_exist">
+				<source>This configuration doesn't exist</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

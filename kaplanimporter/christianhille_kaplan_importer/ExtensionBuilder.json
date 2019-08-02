@@ -1,0 +1,32 @@
+{
+    "modules": [],
+    "properties": {
+        "backendModules": [],
+        "description": "Import von Kaplan Termindaten nach ext:news",
+        "emConf": {
+            "category": "be",
+            "custom_category": "",
+            "dependsOn": "typo3 => 8.7.0-8.7.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "de",
+            "state": "alpha",
+            "targetVersion": "8.7.0-8.7.99",
+            "version": "1.0.0"
+        },
+        "extensionKey": "christianhille_kaplan_importer",
+        "name": "Kaplan Importer",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [],
+        "plugins": [],
+        "vendorName": "ChristianHille"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2019-07-29 11:30",
+        "extension_builder_version": "8.10.4",
+        "be_user": " (1)"
+    }
+}

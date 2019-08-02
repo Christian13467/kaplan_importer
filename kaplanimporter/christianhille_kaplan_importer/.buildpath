@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry external="true" kind="lib" path="D:/_Home/Projekte/Typo3/news_7.1.0/Classes"/>
+	<buildpathentry external="true" kind="lib" path="D:/_Home/Projekte/Typo3/typo3/my-new-project/vendor"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="src" path="Classes">
+		<attributes>
+			<attribute name="composer" value="source"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="Tests">
+		<attributes>
+			<attribute name="composer" value="source"/>
+		</attributes>
+	</buildpathentry>
+</buildpath>
